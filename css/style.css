@@ -2095,3 +2095,23 @@ p.copy-right-grids a:hover {
 }
 
 /* //responsive */
+
+
+
+
+
+
+
+.branch_img
+{
+-webkit-box-shadow: -9px -11px 0px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -9px -11px 0px 0px rgba(0,0,0,0.75);
+box-shadow: -9px -11px 0px 0px orange;
+border-top: 3px solid transparent;
+border-left: 3px solid transparent;
+border-radius: 10px;
+}
+.branches
+{
+    background-color: white;
+}
