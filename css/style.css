@@ -792,10 +792,10 @@ footer {
     border-color: #55acee;
 }
 
-.footer-social-agile ul li a i.fa-dribbble:hover {
-    background: #f26522;
+.footer-social-agile ul li a i.fa-instagram:hover {
+    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
     color: #fff;
-    border-color: #f26522;
+    border-color: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
 }
 
 .footer-social-agile ul li a i.fa-vk:hover {
@@ -2095,3 +2095,17 @@ p.copy-right-grids a:hover {
 }
 
 /* //responsive */
+
+.branch_img
+{
+-webkit-box-shadow: -9px -11px 0px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -9px -11px 0px 0px rgba(0,0,0,0.75);
+box-shadow: -9px -11px 0px 0px orange;
+border-top: 3px solid transparent;
+border-left: 3px solid transparent;
+border-radius: 10px;
+}
+.branches
+{
+    background-color: white;
+}
