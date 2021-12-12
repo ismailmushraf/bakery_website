@@ -55,34 +55,21 @@
 }
 
 .image-animated {
-    animation: animateImage 5s ease-in-out;
+    animation: animateImage 5s ease-in;
     /* change time according to interval set */
 }
 
 @keyframes animateImage {
     0% {
-        opacity: .2;
         transform: scale(1.2, 1.2);
     }
 
     20% {
-        opacity: 1;
         transform: scale(1, 1);
     }
 
     80% {
-        opacity: 1;
         transform: scale(1, 1);
-    }
-
-    95% {
-        opacity: .8;
-        transform: scale(1.2, 1.2);
-    }
-
-    100% {
-        opacity: .8;
-        transform: scale(1.2, 1.2);
     }
 }
 
