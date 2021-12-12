@@ -792,10 +792,10 @@ footer {
     border-color: #55acee;
 }
 
-.footer-social-agile ul li a i.fa-dribbble:hover {
-    background: #f26522;
+.footer-social-agile ul li a i.fa-instagram:hover {
+    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
     color: #fff;
-    border-color: #f26522;
+    border-color: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
 }
 
 .footer-social-agile ul li a i.fa-vk:hover {
